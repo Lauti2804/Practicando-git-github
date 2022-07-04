@@ -6,4 +6,4 @@ cumplir su meta
 
 Hola este es un tercer commit para seguir practicadno mas 
 sobre git y github
-como andan?
+como andan?? hola gente
