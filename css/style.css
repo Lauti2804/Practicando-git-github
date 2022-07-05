@@ -37,3 +37,14 @@ body{
     padding: 16px;
     margin: 20px;
 }
+
+.footer{
+    display: flex;
+    background-color: darkblue;
+ 
+    padding: 5px;
+    font-weight: 700;
+    justify-content: center;
+    color: white;
+    border-radius: 10px;
+}
